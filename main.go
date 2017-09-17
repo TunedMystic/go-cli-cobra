@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/tunedmystic/spaceship/cmd"
+	"github.com/tunedmystic/go-cli-cobra/cmd"
 )
 
 func main() {
